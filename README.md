@@ -32,7 +32,7 @@
 
 ---> Access controlled via BI Catalog folder permissions
 
----> Ideal for users with roles like IT Auditor, Security Admin, or Fusion SysOps
+---> Ideal for users with roles like IT Auditor, Security Admin
 
 
 
