@@ -7,15 +7,15 @@
 
 **Query Source:** Custom SQL-based data set
 
-**Fields Retrieved:** 
+**📌 Fields Retrieved:** 
 
----> USER_ID (Unique internal user identifier)
+🔹 USER_ID (Unique internal user identifier)
 
----> USERNAME (Username assigned in Fusion Apps)
+🔹 USERNAME (Username assigned in Fusion Apps)
 
----> CREATION_DATE (Date and time of account creation)
+🔹 CREATION_DATE (Date and time of account creation)
 
----> LAST_UPDATE_LOGIN (Last login session ID or token)
+🔹 LAST_UPDATE_LOGIN (Last login session ID or token)
 
 **🖥️ Layout Template:** USERS_DATA_RPT.xdo
 
@@ -30,9 +30,9 @@
 
 **🔐 Access & Security**
 
----> Access controlled via BI Catalog folder permissions
+✔️ Access controlled via BI Catalog folder permissions
 
----> Ideal for users with roles like IT Auditor, Security Admin
+✔️ Ideal for users with roles like IT Auditor, Security Admin
 
 
 
